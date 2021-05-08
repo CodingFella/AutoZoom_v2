@@ -1,0 +1,14 @@
+Name (no spaces)	Day of Week (Mon Tue Wed etc.)	Time (24hr)	Link
+Period1	Mon	08:00:00	link
+Period1	Thu	08:00:00	link
+Period2	Mon	09:50:00	link
+Period2	Thu	09:50:00	link
+Period3	Mon	12:20:00	link
+Period3	Thu	12:20:00	link
+Period4	Tue	09:00:00	link
+Period4	Fri	09:00:00	link
+Period5	Tue	10:50:00	link
+Period5	Fri	10:50:00	link
+Homeroom	Wed	09:00:00	link
+Period6	Tue	13:15:00	link
+Period6	Fri	13:15:00	link
